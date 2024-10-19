@@ -1,0 +1,93 @@
+body{
+    font-family: "Roboto",sans-serif; 
+    margin: 0;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+
+.bg img{ 
+    position: absolute;
+    right: 0;
+    width: 800px;
+}
+
+
+.imgs-div{
+    width: 200%;
+}
+
+nav *{
+    float: left;
+}
+
+nav{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+nav img{
+    position: relative;
+    transform: scale(0.8);
+    top:10px;
+    left: 30px;
+}
+
+.nav-items{
+    margin-left:250px;
+    margin-right: 250px;
+    color: #3e4794;
+}
+
+.nav-item{
+    margin-left: 40px;
+}
+
+.signin-btn{
+
+    position: relative;
+    top:20px;
+    padding: 3px 10px;
+    color: white;
+    background-image: linear-gradient(to right,#965cf2,#ff8adc);   
+    border: none;
+    border-radius: 10px; 
+}
+
+.left-section{
+    width: 35%;
+    margin-left: 40px;
+    margin-top: 120px;
+    float: left;
+}
+
+.left-section h1{
+    font-size: 60px;
+    color: #3e4794;
+}
+
+.left-section h4{
+    color: #727593;
+}
+
+.learn-more-btn{
+    background-image: linear-gradient(to right,#965cf2,#ff8adc);   
+    border: none;
+    border-radius: 10px; 
+    color: white;
+    padding: 7px 30px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+
+.imgs-div img{
+    transform: scale(0.6);
+    position: relative;
+    bottom: 129px;
+    right: 150px;
+    
+}
