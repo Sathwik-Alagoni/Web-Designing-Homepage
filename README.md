@@ -17,7 +17,7 @@ Live deployed website link: [Netlify-link](https://web-designing-homepagee.netli
 
 
 ## How the Website Looks  
-![Image](/readmeImages/completedScreenshot.jpg)
+![Image](thumbnail.png)
 
 ## What I Have Learned in This Project
 - I have learned about **background image positioning**
